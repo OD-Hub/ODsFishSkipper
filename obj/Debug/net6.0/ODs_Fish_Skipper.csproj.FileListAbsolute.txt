@@ -1,0 +1,8 @@
+/home/otis/Downloads/ODsFishSkipperSource/bin/Debug/net6.0/ODsFishSkipper.deps.json
+/home/otis/Downloads/ODsFishSkipperSource/bin/Debug/net6.0/ODsFishSkipper.dll
+/home/otis/Downloads/ODsFishSkipperSource/obj/Debug/net6.0/ODs_Fish_Skipper.csproj.AssemblyReference.cache
+/home/otis/Downloads/ODsFishSkipperSource/obj/Debug/net6.0/ODs_Fish_Skipper.GeneratedMSBuildEditorConfig.editorconfig
+/home/otis/Downloads/ODsFishSkipperSource/obj/Debug/net6.0/ODs_Fish_Skipper.AssemblyInfoInputs.cache
+/home/otis/Downloads/ODsFishSkipperSource/obj/Debug/net6.0/ODs_Fish_Skipper.AssemblyInfo.cs
+/home/otis/Downloads/ODsFishSkipperSource/obj/Debug/net6.0/ODs_Fish_Skipper.csproj.CoreCompileInputs.cache
+/home/otis/Downloads/ODsFishSkipperSource/obj/Debug/net6.0/ODsFishSkipper.dll
